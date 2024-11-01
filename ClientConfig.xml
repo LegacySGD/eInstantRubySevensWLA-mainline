@@ -1,0 +1,5 @@
+<ClientConfig>
+	<GameClient name="Ruby Sevens WLA" clientCode="mobile" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="Ruby7s" enableFreeSpin="Y" clientversion="1.0" gameId="300-2171-0" />
+	<GameClient name="Ruby Sevens WLA" clientCode="tablet" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="Ruby7s" enableFreeSpin="Y" clientversion="1.0" gameId="300-2171-0" />
+	<GameClient name="Ruby Sevens WLA" clientCode="desktop" technology="HTML" height="600" width="800" meterheight="0" meterwidth="10" gameFolder="Ruby7s" enableFreeSpin="Y" clientversion="1.0" gameId="300-2171-0" />
+</ClientConfig>
